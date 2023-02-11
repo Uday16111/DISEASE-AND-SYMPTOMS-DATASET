@@ -7,6 +7,7 @@ In this project we have two process
 DSC Folder contains the codes and files to extract the disease and sympotoms and arrange them in a EXCEL sheet.
 
 To obtain the web page for predicitng the disease
+
 i)	New folder -> data 
 	It contains the datasets(EXCEL sheets) which contains the Diseases and their sysmptoms.
 	import the testing.csv to MobgoDB 
